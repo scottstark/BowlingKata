@@ -1,4 +1,4 @@
-package com.example.MyTestGame;
+package com.example.BowlingKata;
 
 public class Game {
 
